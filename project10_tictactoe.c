@@ -1,3 +1,5 @@
+// this code is a modification of the code originally created by BroCode (YouTube). Special thanks to him for his amazing work!
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <ctype.h>
